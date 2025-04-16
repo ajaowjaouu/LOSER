@@ -1,2 +1,1 @@
-# anime-
-f
+Public static void main strings args 
